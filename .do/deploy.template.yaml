@@ -65,7 +65,7 @@ spec:
           value: "PINECONE_API_KEY"
         - key: PINECONE_ENVIRONMENT
           scope: RUN_TIME
-          value: "northamerica-northeast1-gcp"
+          value: "us-west4-gcp-free"
         - key: PINECONE_INDEX
           scope: RUN_TIME
           value: "doc-buddy-memory"
